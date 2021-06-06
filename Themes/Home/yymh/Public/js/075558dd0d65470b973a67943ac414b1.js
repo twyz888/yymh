@@ -1,6 +1,6 @@
 window.rootPath = '';
 
-//初始化toast
+// 初始化toast
 window.toast = new auiToast({});
 
 // 初始化对话框
